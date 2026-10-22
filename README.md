@@ -23,7 +23,7 @@ From leafy corners to blooming beauties, GreenDen brings plants and peaceful vib
 
 ### 🌱 Take A Look
 
-🔗 **[Step Into GreenDen](https://github.com/Hemamalini8/Greenden_Website)**
+🔗 **[Step Into GreenDen](https://hemamalini8.github.io/Greenden_Website/)**
 
 ---
 
